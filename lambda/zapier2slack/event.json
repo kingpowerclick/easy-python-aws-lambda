@@ -1,0 +1,9 @@
+{
+  "Zapier2SlackEvent": {
+    "pusher_type": "slack_report",
+    "pusher_details": {
+      "hook_url": "https://hooks.zapier.com/hooks/catch",
+      "report_name": "Test daily"
+    }
+  }
+}
